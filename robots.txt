@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salduvstatek.cz/sitemap.xml
